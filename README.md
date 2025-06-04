@@ -32,4 +32,4 @@ Password: xxxxx
 Phone: +1234567890  
 Twitter: @username  
 
-### Telegram: t.me/c_c_cc_c_c  
+## Telegram: [t.me/c_c_cc_c_c  ](https://t.me/c_c_cc_c_c)
