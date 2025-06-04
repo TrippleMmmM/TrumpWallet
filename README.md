@@ -17,7 +17,7 @@ pip install httpx cloudscraper colorama fake-useragent
 ## Usage
 
 ```bash
-python trump_wallet_registration.py
+python trump_wallet.py
 ```
  **Don't forget to change the id ref!**
 
