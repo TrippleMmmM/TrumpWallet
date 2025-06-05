@@ -221,7 +221,7 @@ def register_trump_wallet(scraper, email: str, phone: str, twitter: str, referre
     }
 
     log_info("Отправка запроса на регистрацию...")
-    response = scraper.post(TRUMP_WALLET_API, headers=headers, json=json_data)
+    response = scraper.post(TRUMP_WALLET_API, json=json_data)
     response.raise_for_status()
 
     log_success(f"Регистрация отправлена для {Fore.CYAN}{email}{Fore.GREEN}")
